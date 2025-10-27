@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 255.1 70.9" enable-background="new 0 0 255.1 70.9" xml:space="preserve">
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="20.7" y="11.5" width="213.6" height="47.8"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_2_)" fill="#F09D2D" d="M20.7,59.4h19.4V38.9H20.7V59.4z M40.2,11.5H20.7v19.8h19.4V11.5z M67.4,35.4
+			c0-4.8-1.1-9-3.2-12.6c-2.1-3.6-5.1-6.4-9-8.4c-1.9-1-4-1.7-6.1-2.2v46.3c2.2-0.5,4.2-1.2,6.1-2.2c3.9-2,6.9-4.8,9-8.4
+			C66.3,44.4,67.4,40.2,67.4,35.4"/>
+		<path clip-path="url(#SVGID_2_)" fill="#2F3947" d="M178.2,39.4l6-14l6,14H178.2z M195.3,51.4h6.2l-14.4-31.9h-5.8l-14.4,31.9h6.1
+			l3.1-7.4h16L195.3,51.4z M154.3,51.4h5.9V24.5h10.6v-5h-27.1v5h10.6V51.4z M124.1,39.4l6-14l6,14H124.1z M141.2,51.4h6.2L133,19.5
+			h-5.8l-14.4,31.9h6.1l3.1-7.4h16L141.2,51.4z M87,46.4V24.5h7.8c2.3,0,4.4,0.4,6.2,1.3c1.8,0.9,3.1,2.2,4.1,3.8
+			c1,1.7,1.4,3.6,1.4,5.8s-0.5,4.1-1.4,5.8c-1,1.7-2.3,2.9-4.1,3.8c-1.8,0.9-3.8,1.3-6.2,1.3H87z M81.1,51.4h14c3.4,0,6.4-0.7,9.1-2
+			c2.6-1.3,4.7-3.2,6.2-5.6c1.5-2.4,2.2-5.2,2.2-8.4c0-3.2-0.7-6-2.2-8.4c-1.5-2.4-3.5-4.3-6.2-5.6c-2.6-1.3-5.7-2-9.1-2h-14V51.4z"
+			/>
+	</g>
+	<polygon fill="#F09D2D" points="227,19.5 227,32.1 212.5,32.1 212.5,19.5 205.1,19.5 205.1,51.4 212.5,51.4 212.5,38.3 227,38.3 
+		227,51.4 234.4,51.4 234.4,19.5 	"/>
+</g>
+</svg>
